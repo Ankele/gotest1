@@ -4,6 +4,6 @@ import "fmt"
 
 
 func SayHello(name string) string {
-    return fmt.Sprintf("Hello, %s", name)
+    return fmt.Sprintf("Hello my girls and hello %s", name)
 }
 
